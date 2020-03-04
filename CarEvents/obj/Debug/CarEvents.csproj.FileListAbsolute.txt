@@ -1,0 +1,7 @@
+C:\Users\SBSC_KEHINDE ADEMOLA\source\repos\CarEvents\CarEvents\bin\Debug\CarEvents.exe.config
+C:\Users\SBSC_KEHINDE ADEMOLA\source\repos\CarEvents\CarEvents\bin\Debug\CarEvents.exe
+C:\Users\SBSC_KEHINDE ADEMOLA\source\repos\CarEvents\CarEvents\bin\Debug\CarEvents.pdb
+C:\Users\SBSC_KEHINDE ADEMOLA\source\repos\CarEvents\CarEvents\obj\Debug\CarEvents.csprojAssemblyReference.cache
+C:\Users\SBSC_KEHINDE ADEMOLA\source\repos\CarEvents\CarEvents\obj\Debug\CarEvents.csproj.CoreCompileInputs.cache
+C:\Users\SBSC_KEHINDE ADEMOLA\source\repos\CarEvents\CarEvents\obj\Debug\CarEvents.exe
+C:\Users\SBSC_KEHINDE ADEMOLA\source\repos\CarEvents\CarEvents\obj\Debug\CarEvents.pdb
